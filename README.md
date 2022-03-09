@@ -8,3 +8,4 @@ Change 0.2
 Change 0.3
 Change 0.4
 Change 0.5
+Change 0.6
